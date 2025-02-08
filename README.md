@@ -1,1 +1,1 @@
-# Programa-o-orientada-a-objetos
+# Repositório com o intuito de entregar atividades solicitadas pelo professor.
