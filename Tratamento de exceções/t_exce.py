@@ -1,3 +1,5 @@
+#Wesley Silva Araújo (2023010487)
+
 class ErroLivroIndisponivel(Exception):
     def __init__(self, titulo, motivo):
         super().__init__(f"O livro '{titulo}' não está disponível: {motivo}.")
